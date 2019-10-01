@@ -9,3 +9,5 @@ IDEAS TO IMPLEMENT
 INSIGHTS
 - Noise is additive. Might be useless to utilise more than one sensor.
 
+MORE RESEARCH NEEDED
+- Suitable board. Raspberry? Arduino? ESP8266?
