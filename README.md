@@ -11,3 +11,4 @@ INSIGHTS
 
 MORE RESEARCH NEEDED
 - Suitable board. Raspberry? Arduino? ESP8266?
+- Change language to Lua?
